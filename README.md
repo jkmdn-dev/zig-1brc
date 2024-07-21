@@ -1,4 +1,4 @@
-#ZIg 1BRC
+# Zig 1BRC
 
 This is will be my take on the 1BRC in Zig. 
 
