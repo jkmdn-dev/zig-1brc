@@ -1,0 +1,5 @@
+.direnv
+.supermaven
+.zig-cache
+zig-out
+data
